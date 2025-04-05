@@ -1,8 +1,6 @@
 # Hamiltonian Path Finder Algorithm
 
-Simple Python implementation of a Hamiltonian Path finder algorithm using backtracking.
-
-This was built as an assignment for the **Foundations of Algorithm Design and Analysis** course at PUC Minas university.
+Simple Python implementation of a Hamiltonian Path finder algorithm using backtracking, built as an assignment for the **Foundations of Algorithm Design and Analysis** course at PUC Minas university.
 
 ## About
 
